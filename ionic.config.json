@@ -1,0 +1,7 @@
+{
+  "name": "ionic/qr_scanner",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

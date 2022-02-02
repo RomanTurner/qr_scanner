@@ -1,0 +1,6 @@
+{
+	"appId": "qr.scanner.test",
+	"appName": "qr_scanner",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
